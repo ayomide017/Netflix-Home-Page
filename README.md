@@ -17,7 +17,7 @@ A basic warmup exercise. Simple, practice oriented, clone of the Netflix Homepag
 - HTML
 - CSS
 - Vanilla JS - ES6
-- [Awesomeness](https://www.wikihow.com/Love-Programming) - Strictly for the love of coding :-)
+
 
 ## What it does
 
@@ -76,9 +76,7 @@ tab content for each selector -->
 
 > Also (Just a thought), You could advance this by adding some animations to the selector borders etc.
 
-## Features in Development
 
-I might add the other pages on the Netflix website if I ever come back to refactor ^-^
 
 ## Contribution
 
